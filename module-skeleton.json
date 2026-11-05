@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-social-graph-dart-mobile",
+  "capabilityKey": "liberusoftware/module-social-network-social-graph",
+  "presentation": "dart-mobile",
+  "package": "module_social_network_social_graph_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/social-network/nextjs/social-graph.md",
+  "presentationPlan": "projects/social-network/features/social-graph.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
